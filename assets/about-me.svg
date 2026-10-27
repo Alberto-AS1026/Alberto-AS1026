@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="832" viewBox="0 0 900 832">
+<rect x="0.5" y="0.5" width="899" height="831" rx="10" fill="#0D1117" stroke="#30363D"/>
+<path d="M10.5 0.5h879a10 10 0 0 1 10 10v26h-899v-26a10 10 0 0 1 10-10z" fill="#161B22" stroke="#30363D"/>
+<circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#2EA043"/>
+<text x="450" y="23" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13">about-me.yaml</text>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve">
+<text x="24" y="74" fill="#FFFFFF"><tspan fill="#7EE787">name</tspan>: Alberto Aragón</text>
+<text x="24" y="96" fill="#FFFFFF"><tspan fill="#7EE787">role</tspan>: Systems, Networking &amp; IT Support Technician</text>
+<text x="24" y="118" fill="#FFFFFF"><tspan fill="#7EE787">location</tspan>: Cádiz, Spain — International experience in Cork, Ireland 🇮🇪</text>
+<text x="24" y="140" fill="#FFFFFF"></text>
+<text x="24" y="162" fill="#FFFFFF"><tspan fill="#7EE787">education</tspan>:</text>
+<text x="24" y="184" fill="#FFFFFF">  - Higher Technical Degree in Network Computer Systems Administration (ASIR)</text>
+<text x="24" y="206" fill="#FFFFFF">    — Colegio Salesianos, Cádiz (2024 – 2026)</text>
+<text x="24" y="228" fill="#FFFFFF"></text>
+<text x="24" y="250" fill="#FFFFFF"><tspan fill="#7EE787">certifications</tspan>:</text>
+<text x="24" y="272" fill="#FFFFFF">  - 🌐 Cisco CCNA 2 — Routing, switching and IPv4/IPv6 subnetting</text>
+<text x="24" y="294" fill="#FFFFFF">  - 🔐 Cisco Cybersecurity — Firewalls, VPN and threat detection</text>
+<text x="24" y="316" fill="#FFFFFF">  - 🐍 Cisco Python — Scripting for network automation</text>
+<text x="24" y="338" fill="#FFFFFF"></text>
+<text x="24" y="360" fill="#FFFFFF"><tspan fill="#7EE787">interests</tspan>:</text>
+<text x="24" y="382" fill="#FFFFFF">  - 🖧 Networking: configuring Cisco routers and switches</text>
+<text x="24" y="404" fill="#FFFFFF">  - 🐧 Linux and Windows Server administration</text>
+<text x="24" y="426" fill="#FFFFFF">  - 📦 Virtualization and containers (Proxmox, VirtualBox, Docker)</text>
+<text x="24" y="448" fill="#FFFFFF">  - 🍓 Raspberry Pi projects</text>
+<text x="24" y="470" fill="#FFFFFF">  - 🔧 Hardware diagnostics and repair</text>
+<text x="24" y="492" fill="#FFFFFF">  - 🤖 Automating network tasks with Python</text>
+<text x="24" y="514" fill="#FFFFFF"></text>
+<text x="24" y="536" fill="#FFFFFF"><tspan fill="#7EE787">experience</tspan>:</text>
+<text x="24" y="558" fill="#FFFFFF">  - Hardware &amp; Software Technician — NU10 Repairs, Cork (2026)</text>
+<text x="24" y="580" fill="#FFFFFF">  - IT Support Technician — Oficopyer, Chiclana (2025)</text>
+<text x="24" y="602" fill="#FFFFFF"></text>
+<text x="24" y="624" fill="#FFFFFF"><tspan fill="#7EE787">languages</tspan>:</text>
+<text x="24" y="646" fill="#FFFFFF">  - Spanish: native</text>
+<text x="24" y="668" fill="#FFFFFF">  - English: B1 (daily use in an English-speaking workplace)</text>
+<text x="24" y="690" fill="#FFFFFF"></text>
+<text x="24" y="712" fill="#FFFFFF"><tspan fill="#7EE787">workflow</tspan>:</text>
+<text x="24" y="734" fill="#FFFFFF">  diagnose → resolve → follow up</text>
+<text x="24" y="756" fill="#FFFFFF"></text>
+<text x="24" y="778" fill="#FFFFFF"><tspan fill="#7EE787">skills</tspan>:</text>
+<text x="24" y="800" fill="#FFFFFF">  Have you tried turning it off and on again? I have. Then I fix it.</text>
+</g>
+</svg>

@@ -19,48 +19,15 @@
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
-```yaml
-name: Alberto Aragón
-role: Systems, Networking & IT Support Technician
-location: Cádiz, Spain — International experience in Cork, Ireland 🇮🇪
-
-education:
-  - Higher Technical Degree in Network Computer Systems Administration (ASIR)
-    — Colegio Salesianos, Cádiz (2024 – 2026)
-
-certifications:
-  - 🌐 Cisco CCNA 2 — Routing, switching and IPv4/IPv6 subnetting
-  - 🔐 Cisco Cybersecurity — Firewalls, VPN and threat detection
-  - 🐍 Cisco Python — Scripting for network automation
-
-interests:
-  - 🖧 Networking: configuring Cisco routers and switches
-  - 🐧 Linux and Windows Server administration
-  - 📦 Virtualization and containers (Proxmox, VirtualBox, Docker)
-  - 🍓 Raspberry Pi projects
-  - 🔧 Hardware diagnostics and repair
-  - 🤖 Automating network tasks with Python
-
-experience:
-  - Hardware & Software Technician — NU10 Repairs, Cork (2026)
-  - IT Support Technician — Oficopyer, Chiclana (2025)
-
-languages:
-  - Spanish: native
-  - English: B1 (daily use in an English-speaking workplace)
-
-workflow:
-  diagnose → resolve → follow up
-
-skills:
-  Have you tried turning it off and on again? I have. Then I fix it.
-```
+<p align="center">
+  <img src="./assets/about-me.svg" alt="About me" width="100%" />
+</p>
 
 ---
 
-## 🛠️ From the workbench to the rack
+## From the workbench to the rack
 
 I like understanding **how things work on the inside**: from opening up a laptop to replace a component to configuring VLANs on a Cisco switch. At **NU10 Repairs (Cork, Ireland)** I repaired devices for individual and business customers, optimized Windows and macOS to extend their lifespan, and explained every diagnosis in English to non-technical people.
 
@@ -72,7 +39,7 @@ What motivates me most is **closing an incident from start to finish**: finding 
 
 ---
 
-## 🔧 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -80,6 +47,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>💻 Operating Systems</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,debian,fedora,kali,macos&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Windows-2EA043?style=flat-square&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows_Server-2EA043?style=flat-square&logo=windows11&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-2EA043?style=flat-square&logo=linux&logoColor=white" />
@@ -92,6 +61,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🗂️ Services & Administration</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,apache,mysql,mariadb,grafana&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Active_Directory-2EA043?style=flat-square&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-2EA043?style=flat-square&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache-2EA043?style=flat-square&logo=apache&logoColor=white" />
@@ -104,6 +75,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🌐 Networking</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,putty,zabbix&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Cisco-2EA043?style=flat-square&logo=cisco&logoColor=white" />
       <img src="https://img.shields.io/badge/Packet_Tracer-2EA043?style=flat-square&logo=cisco&logoColor=white" />
       <img src="https://img.shields.io/badge/Wireshark-2EA043?style=flat-square&logo=wireshark&logoColor=white" />
@@ -121,6 +94,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
     </td>
     <td align="center" width="50%" valign="top">
       <h3>📦 Virtualization & Containers</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox,virtualbox,docker&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Proxmox-2EA043?style=flat-square&logo=proxmox&logoColor=white" />
       <img src="https://img.shields.io/badge/VirtualBox-2EA043?style=flat-square&logo=virtualbox&logoColor=white" />
       <img src="https://img.shields.io/badge/VMware-2EA043?style=flat-square&logo=vmware&logoColor=white" />
@@ -135,6 +110,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🐍 Scripting & Tools</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,powershell,git,github,vscode&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Python-2EA043?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-2EA043?style=flat-square&logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-2EA043?style=flat-square&logo=powershell&logoColor=white" />
@@ -144,6 +121,8 @@ What motivates me most is **closing an incident from start to finish**: finding 
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🔧 Support & Hardware</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi&perline=8" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Raspberry_Pi-2EA043?style=flat-square&logo=raspberrypi&logoColor=white" />
       <img src="https://img.shields.io/badge/Hardware_Repair-1A7F37?style=flat-square" />
       <img src="https://img.shields.io/badge/Printers_&_Peripherals-1A7F37?style=flat-square" />
