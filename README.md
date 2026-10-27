@@ -74,23 +74,12 @@ What motivates me most is **closing an incident from start to finish**: finding 
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <h3>🌐 Networking</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,putty,zabbix&perline=8" />
+      <h3>🔐 Security</h3>
+      <img src="https://cdn.simpleicons.org/pfsense/2EA043" height="40" alt="pfsense" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wireguard/2EA043" height="40" alt="wireguard" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kalilinux/2EA043" height="40" alt="kalilinux" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Cisco-2EA043?style=flat-square&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/Packet_Tracer-2EA043?style=flat-square&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/Wireshark-2EA043?style=flat-square&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-2EA043?style=flat-square&logo=nmap&logoColor=white" />
-      <img src="https://img.shields.io/badge/PuTTY-2EA043?style=flat-square&logo=putty&logoColor=white" />
-      <img src="https://img.shields.io/badge/pfSense-2EA043?style=flat-square&logo=pfsense&logoColor=white" />
-      <img src="https://img.shields.io/badge/WireGuard-2EA043?style=flat-square&logo=wireguard&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zabbix-2EA043?style=flat-square&logo=zabbix&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TCP%2FIP-1A7F37?style=flat-square" />
-      <img src="https://img.shields.io/badge/Routers_&_Switches-1A7F37?style=flat-square" />
-      <img src="https://img.shields.io/badge/VLANs-1A7F37?style=flat-square" />
-      <img src="https://img.shields.io/badge/Routing_&_Switching-1A7F37?style=flat-square" />
-      <img src="https://img.shields.io/badge/IPv4_%2F_IPv6-1A7F37?style=flat-square" />
+      <img src="https://img.shields.io/badge/Firewalls-1A7F37?style=flat-square&logo=fortinet&logoColor=white" />
+      <img src="https://img.shields.io/badge/VPN-1A7F37?style=flat-square&logo=wireguard&logoColor=white" />
+      <img src="https://img.shields.io/badge/Threat_Detection-1A7F37?style=flat-square" />
     </td>
     <td align="center" width="50%" valign="top">
       <h3>📦 Virtualization & Containers</h3>
@@ -100,11 +89,6 @@ What motivates me most is **closing an incident from start to finish**: finding 
       <img src="https://img.shields.io/badge/VirtualBox-2EA043?style=flat-square&logo=virtualbox&logoColor=white" />
       <img src="https://img.shields.io/badge/VMware-2EA043?style=flat-square&logo=vmware&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2EA043?style=flat-square&logo=docker&logoColor=white" />
-      <br/><br/>
-      <h3>🔐 Security</h3>
-      <img src="https://img.shields.io/badge/Firewalls-1A7F37?style=flat-square&logo=fortinet&logoColor=white" />
-      <img src="https://img.shields.io/badge/VPN-1A7F37?style=flat-square&logo=wireguard&logoColor=white" />
-      <img src="https://img.shields.io/badge/Threat_Detection-1A7F37?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -129,6 +113,27 @@ What motivates me most is **closing an incident from start to finish**: finding 
       <img src="https://img.shields.io/badge/Incident_Management-1A7F37?style=flat-square" />
       <img src="https://img.shields.io/badge/Ticketing-1A7F37?style=flat-square" />
       <img src="https://img.shields.io/badge/Technical_Documentation-1A7F37?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>🌐 Networking</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,putty,zabbix&perline=8" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Cisco-2EA043?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Packet_Tracer-2EA043?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-2EA043?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-2EA043?style=flat-square&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/PuTTY-2EA043?style=flat-square&logo=putty&logoColor=white" />
+      <img src="https://img.shields.io/badge/pfSense-2EA043?style=flat-square&logo=pfsense&logoColor=white" />
+      <img src="https://img.shields.io/badge/WireGuard-2EA043?style=flat-square&logo=wireguard&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zabbix-2EA043?style=flat-square&logo=zabbix&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TCP%2FIP-1A7F37?style=flat-square" />
+      <img src="https://img.shields.io/badge/Routers_&_Switches-1A7F37?style=flat-square" />
+      <img src="https://img.shields.io/badge/VLANs-1A7F37?style=flat-square" />
+      <img src="https://img.shields.io/badge/Routing_&_Switching-1A7F37?style=flat-square" />
+      <img src="https://img.shields.io/badge/IPv4_%2F_IPv6-1A7F37?style=flat-square" />
     </td>
   </tr>
 </table>
