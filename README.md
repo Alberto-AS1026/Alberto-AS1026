@@ -99,6 +99,14 @@ Lo que más me motiva es **cerrar una incidencia de principio a fin**: encontrar
   <img src="https://img.shields.io/badge/Routing_%26_Switching-2E2E2E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IPv4_%2F_IPv6-2E2E2E?style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PuTTY-2E2E2E?style=for-the-badge&logo=putty&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+</p>
 
 ### Seguridad
 <p align="center">
