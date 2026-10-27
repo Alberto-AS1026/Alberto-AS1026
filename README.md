@@ -75,7 +75,7 @@ What motivates me most is **closing an incident from start to finish**: finding 
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🔐 Security</h3>
-      <img src="https://cdn.simpleicons.org/pfsense/2EA043" height="40" alt="pfsense" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wireguard/2EA043" height="40" alt="wireguard" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kalilinux/2EA043" height="40" alt="kalilinux" />
+      <img src="./assets/security-icons.svg" alt="pfSense, WireGuard, Kali Linux" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Firewalls-1A7F37?style=flat-square&logo=fortinet&logoColor=white" />
       <img src="https://img.shields.io/badge/VPN-1A7F37?style=flat-square&logo=wireguard&logoColor=white" />
