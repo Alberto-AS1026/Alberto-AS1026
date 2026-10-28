@@ -22,7 +22,7 @@
 ## About me
 
 <p align="center">
-  <img src="./assets/about-me.svg" alt="About me" width="100%" />
+  <img src="./assets/about-me-v2.svg" alt="About me" width="100%" />
 </p>
 
 ---
